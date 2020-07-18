@@ -1,0 +1,4 @@
+.Home {
+  height: calc(100vh - 150px);
+  align-items: center;
+}
